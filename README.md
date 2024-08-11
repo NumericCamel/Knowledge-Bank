@@ -13,4 +13,4 @@ The *Alternative Hypothesis* is the one you would believe if the *Null Hypothesi
 The **P-Value** is a number between 0 and 1, where the smaller the value is, the stronger the evidence **against** the *Null Hypothesis*
 
 **Case:** Assume we make a background color change on our website. We are curious to know if the new background color increases engagement rate on the website. Our null hypothesis becomes: 
-> H~0: Changing the background color has **no** effect on engagment rate.
+> H~0~: Changing the background color has **no** effect on engagment rate.
